@@ -1,0 +1,32 @@
+body {
+  padding-top: 10px;
+}
+li{
+  margin: 10px 0px 10px 0px;
+}
+.title
+{
+  margin: 10px 10px 10px 10px;
+  font-size: 24px;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+[class*="form1"] {
+  background-color: #cda5f3;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
+.box {
+  background-color: #d8d8d8;
+  border: 1px solid black;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
